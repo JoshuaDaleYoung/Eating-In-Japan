@@ -20,4 +20,4 @@ I used these new variables to see which restaurants had the best and worst ratin
 
 <img width="390" alt="Screen Shot 2020-09-28 at 8 37 55 PM" src="https://user-images.githubusercontent.com/68958681/94502693-5a9a1100-01ca-11eb-98eb-af9be550c113.png">
 
-Ryokan restaurants were the clear winner while European Style Curry restaurants were the clear looser. 
+Ryokan restaurants were the clear winner while European Style Curry restaurants were the clear loser. 
